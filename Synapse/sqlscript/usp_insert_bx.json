@@ -2,7 +2,7 @@
 	"name": "usp_insert_bx",
 	"properties": {
 		"content": {
-			"query": "CREATE PROCEDURE core.Select_bx\nAS\nSELECT 2;",
+			"query": "CREATE PROCEDURE core.Select_bx\nAS\nSELECT 3;",
 			"metadata": {
 				"language": "sql"
 			},
