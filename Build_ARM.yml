@@ -24,7 +24,7 @@ steps:
 - task: Npm@1
   inputs:
     command: 'install'
-    workingDir: 'package.json' #replace with the package.json folder
+    workingDir: './' #replace with the package.json folder
     verbose: true
   displayName: 'Install npm package'
 
