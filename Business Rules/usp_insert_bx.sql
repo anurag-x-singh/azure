@@ -1,3 +1,0 @@
-CREATE PROCEDURE core.Select_bx
-AS
-SELECT 3;
